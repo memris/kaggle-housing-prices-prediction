@@ -27,16 +27,16 @@ Python, Pandas & NumPy, Matplotlib & Seaborn, Scikit-learn, LightGBM.
 # Как запустить проект
 
 ```bash
-# Clone the repository
+# Клонируйте репозиторий
 git clone https://github.com/YourUsername/kaggle-housing-prices-prediction.git
 
-# Create and activate virtual environment
+# Создайте и активируйте виртуальную среду
 python3 -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
+source venv/bin/activate  # Для Windows: venv\Scripts\activate
 
-# Install dependencies
+# Установите зависимости
 pip install -r requirements.txt
-
+```
 ---
 
 # Kaggle Housing Prices Prediction
@@ -80,3 +80,4 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
